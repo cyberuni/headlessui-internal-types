@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"jsx": "react-jsx",
+		"module": "Node16",
+		"moduleResolution": "Node16",
+		"target": "ES2022"
+	},
+	"include": ["ts"]
+}
